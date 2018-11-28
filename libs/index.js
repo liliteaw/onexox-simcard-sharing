@@ -2,9 +2,9 @@
  * Docsify config
  */
 gitalkConfig = {
-  clientID: '',
-  clientSecret: '',
-  repo: '',
+  clientID: 'bc6dc0f8c362e6280f15',
+  clientSecret: 'c927e0a32c30c435005f71f95f61d692f4ffe171',
+  repo: 'onexox-simcard-sharing',
   owner: 'liliteaw',
   admin: ['liliteaw'],
   distractionFreeMode: false
