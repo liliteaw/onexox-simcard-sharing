@@ -21,7 +21,7 @@
 <p align="left">
     <h3 align="left">Lili-lives-sharing</h3>
     <a href="https://liliteaw.github.io/lili-lives-sharing/#/" target="_blank">
-        <img src="https://i.imgur.com/BaQo9Zi.png" width="10%">
+        <img src="https://i.imgur.com/BaQo9Zi.png" width="20%">
     </a>
     
 </p>
@@ -30,8 +30,8 @@
 
 <p align="left">
     <h3 align="left">Atomy-products-sharing</h3>
-    <a href="https://liliteaw.github.io/atomy-products-sharing/#/" target="_blank">
-        <img src="https://i.imgur.com/PIsY6HH.png" width="30%">
+        &nbsp;  &nbsp;<a href="https://liliteaw.github.io/atomy-products-sharing/#/" target="_blank">
+        <img src="https://i.imgur.com/Z3vQBJZ.png" width="30%">
     </a>
        
 </p>
@@ -52,6 +52,14 @@
     <h3 align="left">Blogger</h3>
     <a href="https://masteryourlifebyliliteaw.blogspot.com/" target="_blank">
         <img src="https://i.imgur.com/enOFChq.png" width="30%">
+    </a>
+       
+</p>
+
+<p align="left">
+    <h3 align="left">Lili Sharing</h3>
+    <a href="https://liliteaw.gitlab.io/" target="_blank">
+        <img src="https://i.imgur.com/P2bDty4.png" width="30%">
     </a>
        
 </p>
