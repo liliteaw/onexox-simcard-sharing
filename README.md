@@ -1,12 +1,11 @@
 
 <p align="center">
     <a href="https://">
-         <img src="https://i.imgur.com/1vNPLj4.png" width="100%" height="30%" />
+         <img src="https://i.imgur.com/1vNPLj4.png" width="100%">
     </a>
     <h1 align="center">ONEXOX Simcard Sharing</h1>
  
-    <!-- Go to www.addthis.com/dashboard to customize your tools --> 
-    <div class="addthis_inline_share_toolbox_y0ou"></div>
+    
 
 ✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳✳
     <center>
